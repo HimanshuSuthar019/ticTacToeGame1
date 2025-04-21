@@ -1,4 +1,4 @@
-# himanshu suthar
+# Himanshu suthar
 
 # React + Vite
 
